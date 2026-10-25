@@ -1,0 +1,12 @@
+# Database credentials
+config.php
+.env
+.env.*
+
+# Installation script
+install.php
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
